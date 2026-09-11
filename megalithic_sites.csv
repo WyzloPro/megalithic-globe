@@ -38,13 +38,13 @@ Dólmenes de Ganghwa,Corea del Sur,37.7738,126.4372,Asia Oriental,Investigación
 Ake,México,20.95,-89.6,Mesoamérica,Investigación adicional,Sitio maya con columnas megalíticas y estructuras de piedra; estilo arquitectónico del norte de Yucatán.
 El Infiernito,Colombia,5.6474,-73.5587,Suramérica,Investigación adicional,Círculos de monólitos de la cultura Muisca; interpretados como calendario solar o sitio ritual.
 Menhires del Tafí,Argentina,-26.85,-65.7,Suramérica,Investigación adicional,Más de 100 monolitos tallados de la Cultura Tafí; marcadores rituales, astronómicos y de territorio en El Mollar.
-Calçoene,Brasil,2.6203,-51.0122,Suramérica,Investigación adicional,Alineaciones de piedras que marcan el solsticio; posible observatorio precolombino en Amapá.
+Calçoene,Brasil,2.6203,-51.0122,Amazonía,Investigación adicional,Círculo de 127 bloques de granito de hasta 4 m; observatorio solar precolombino de 500-2.000 años en Amapá, conocido como Stonehenge amazónico.
 Sillustani,Perú,-15.7211,-70.1583,Andes,Investigación adicional,Torres funerarias (chullpas) de piedra sobre península en lago Umayo; cultura Colla y luego inca.
 Tres Zapotes,México,18.4683,-95.4383,Mesoamérica,Investigación adicional,Centro olmeca con cabezas colosales de basalto y la Estela C con fecha de cuenta larga.
 Adam's Calendar,Sudáfrica,-25.6314,30.7596,África,Investigación adicional,Círculo de piedras en Mpumalanga; Michael Tellinger lo asocia a una civilización antigua, pero es controvertido.
 Ha'amonga Trilithon,Tonga,-21.1367,-175.0481,Pacífico,Investigación adicional,Arco de dos pilares y dintel de coral; atribuido al rey Tu'itonga hacia 1200 d.C.
 Gornaya Shoria megalitos,Rusia,53.2518,88.5437,Rusia,Investigación adicional,Menhires y dólmenes en el sur de Siberia; tradiciones locales de gigantes y constructores antiguos.
-Salbyk kurgan,Rusia,53.8943,90.7738,Rusia,Investigación adicional,Túmulo funerario de la cultura Tagar con losas de piedra de hasta 50 toneladas; valle de kurgans en Jacasía.
+Salbyk kurgan,Rusia,53.8943,90.7738,Rusia,Investigación adicional,Túmulo funerario de la cultura Tagar con losas de piedra de hasta 50 toneladas; valle de kurgans en Jacasia.
 Kokino,Macedonia del Norte,42.263,21.954,Europa,Investigación adicional,Observatorio megalítico de la Edad del Bronce con marcadores de solsticios y luna; uno de los más antiguos de Europa.
 Tulán-52,Chile,-23.78,-68.11,Andes,Investigación adicional,Centro ceremonial megalítico del Arcaico Tardío en la Quebrada Tulán, sureste del Salar de Atacama; uno de los pocos ejemplos de megalitismo andino temprano.
 Tulán-54,Chile,-23.78,-68.11,Andes,Investigación adicional,Templo ceremonial del Formativo Temprano con arquitectura monumental y enterramientos; transición a pastoralismo en el desierto de Atacama.
@@ -61,9 +61,9 @@ Kuel de Purén-Lumaco,Chile,-38.0,-73.0,Sur,Investigación adicional,Más de 300
 Petroglifos de Cerro La Silla,Chile,-28.8,-70.5,Norte Chico,Investigación adicional,Más de 500 bloques grabados con figuras humanas, animales y geométricas; estilo El Molle, 300 a.C.-800 d.C.
 Petroglifos de Cerro La Costilla,Chile,-36.99,-72.94,Sur,Investigación adicional,Grabados en meseta de Hualqui; atribuidos a incas o mapuche, con rostros y figuras de búhos, siglo XV.
 Petroglifos de Tilama,Chile,-31.9,-71.5,Norte Chico,Investigación adicional,Grabados rupestres de la cultura El Molle cerca de Los Vilos; motivos geométricos y zoomorfos.
-Pedra do Ingá,Brasil,-7.3253,-35.5857,Brasil,Investigación adicional,Afloramiento de gneis con más de 400 grabados; posible calendario solar y constelaciones; uno de los petroglifos más grandes de América.
-Cromlechs de Minas Gerais,Brasil,-20.0,-44.0,Brasil,Investigación adicional,Círculos de piedra (cromlechs) en Pompeu y otras zonas; asociados a la tradición Aratu y machacas de piedra.
-Alineamiento de Monte Alto,Brasil,-14.5,-40.0,Brasil,Investigación adicional,Alineaciones de piedras en el suroeste de Bahia descubiertas en 1879; debatidas como posible ciudad perdida.
+Pedra do Ingá,Brasil,-7.3253,-35.5857,Nordeste,Investigación adicional,Afloramiento de gneis con más de 400 grabados; posible calendario solar y constelaciones; uno de los petroglifos más grandes de América.
+Cromlechs de Pompéu,Brasil,-19.2233,-45.0033,Sudeste,Investigación adicional,Círculos de piedra reportados en Pompéu y otras zonas de Minas Gerais; asociados a la tradición Aratu y a machacas de piedra.
+Alineamiento de Monte Alto,Brasil,-14.267,-43.167,Nordeste,Investigación adicional,Alineación de piedras de unos 600 m en Palmas de Monte Alto, Bahia; descrita en 1879 por Teodoro Sampaio y debatida como posible ciudad perdida.
 Cerritos de India Muerta,Uruguay,-33.92,-54.26,Sur,Investigación adicional,Más de 3.000 montículos de tierra de 4.200-5.000 años; plataformas, cementerios y marcadores territoriales en humedales de Rocha.
 Cairns de Cerro Negro,Uruguay,-34.4447,-55.2302,Sur,Investigación adicional,Conos de piedra de hasta 3 metros orientados al poniente en Lavalleja; posible marcación de territorios o sitios sagrados.
 Cairns de Cerro Betete,Uruguay,-34.6911,-55.3170,Sur,Investigación adicional,14 cairns circulares en la Sierra de las Ánimas; parte de unos 500 dispersos en Uruguay, de origen indígena.
@@ -81,3 +81,8 @@ Peñico,Perú,-10.9318,-77.4307,Andes,Investigación adicional,Ciudad de la civi
 Pusharo,Perú,-12.5843,-71.486,Amazonía,Investigación adicional,Petroglifos en rocas de la selva del Manú; paneles de hasta 24 metros con caras, serpientes y símbolos, de origen amazónico o inca.
 Toro Muerto,Perú,-16.2222,-72.5078,Andes,Investigación adicional,Campo de más de 6.000 bloques volcánicos grabados con petroglifos; uno de los mayores yacimientos de arte rupestre del mundo, cultura Wari.
 Miculla,Perú,-17.8713,-70.0966,Andes,Investigación adicional,Complejo de petroglifos en el valle de Palca; figuras de cazadores, danzantes y animales de hace 1.500-3.000 años en Tacna.
+Pedra Furada,Brasil,-8.8333,-42.5533,Nordeste,Investigación adicional,Abrigo con pinturas rupestres en Serra da Capivara, Piauí; ocupación debatida de hasta 20.000-50.000 años y la mayor concentración de arte rupestre de América.
+Caverna da Pedra Pintada,Brasil,-2.0434,-54.1692,Amazonía,Investigación adicional,Cueva de Monte Alegre, Pará, con pinturas de hace 11.200 años; prueba de ocupación paleoindia temprana en la Amazonia.
+Geoglifo Jacó Sá,Brasil,-9.9631,-67.4969,Amazonía,Investigación adicional,Geoglifo de dos cuadrados y un círculo inscrito en Acre; primer geoglifo brasileño protegido por IPHAN, de más de 1.000 años.
+Geoglifo Fazenda Colorada,Brasil,-10.602,-67.9177,Amazonía,Investigación adicional,Geoglifo amazónico en Rio Branco, Acre; estructura ceremonial de tierra datada hacia 1244-1378 d.C.
+Pedra da Inscrição,Brasil,-4.0988,-41.6971,Nordeste,Investigación adicional,Bloque de arenisca con 54 pinturas rupestres rojas en el Parque Nacional de Sete Cidades, Piauí; manos, zoomorfos y figuras geométricas.
