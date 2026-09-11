@@ -1,2 +1,25 @@
 nombre,pais,lat,lon,region,tipo,fuente,descripcion
 Göbekli Tepe,Turquía,37.2233,38.9225,Creciente Fértil,templo megalítico,Megalithomania tours,Templos de piedra de hace 11.600 años; pilares en T con relieves de animales y símbolos. Uno de los yacimientos megalíticos más antiguos del mundo.
+Karahan Tepe,Turquía,37.0986,38.9506,Creciente Fértil,templo megalítico,Megalithomania tours,Sitio hermano de Göbekli Tepe con pilares antropomorfos, cámaras subterráneas y grabados. Posible centro ritual contemporáneo.
+Sayburç,Turquía,37.4167,38.8833,Creciente Fértil,templo megalítico,Megalithomania tours,Yacimiento neolítico con pilares decorados y relieves de animales; complementa el complejo de Göbekli Tepe.
+Baalbek,Líbano,34.0058,36.2044,Oriente Medio,plataforma megalítica,Megalithomania tours,Plataforma de templos romanos con bloques de piedra de hasta 1.000 toneladas; incluye la cantera del Stone of the Pregnant Woman.
+Nabta Playa,Egipto,22.51,30.73,Egipto,círculo de piedras,Megalithomania tours,Círculo de piedras de hace 7.500 años con alineaciones astronómicas; uno de los observatorios más antiguos de África.
+Valley Temple Giza,Egipto,29.9753,31.1303,Egipto,templo de bloques,Megalithomania tours,Templo de la IV dinastía construido con bloques de granito de Aswan; muestra técnicas de cantería avanzadas.
+Osirion Abydos,Egipto,26.185,31.918,Egipto,estructura de granito,Megalithomania tours,Estructura subterránea de granito con pasillos inundables; atribuida a Seti I pero con debates sobre su antigüedad.
+Ġgantija,Malta,36.0492,14.2692,Mediterráneo,templo megalítico,Megalithomania tours,Templo megalítico de hace 5.500 años; uno de los edificios de piedra libre más antiguos del mundo.
+Mnajdra,Malta,35.8264,14.4364,Mediterráneo,templo megalítico,Megalithomania tours,Complejo de templos con alineaciones solares en solsticios y equinoccios; construcción de la época de Ġgantija.
+Ħal Saflieni Hypogeum,Malta,35.8556,14.5061,Mediterráneo,hipogeo,Megalithomania tours,Hipogeo subterráneo excavado en roca con cámaras rituales y acústica notable; datado hacia 3.300 a.C.
+Stonehenge,Reino Unido,51.1789,-1.8262,Europa,círculo de piedras,Megalithomania tours,Círculo de sarsen y bluestones con alineación al solsticio de verano; fase principal hacia 2.500 a.C.
+Avebury,Reino Unido,51.425,-1.8544,Europa,círculo de piedras,Megalithomania tours,El mayor círculo de piedra de Europa; incluye avenidas y el monumento de Silbury Hill.
+Newgrange,Irlanda,53.6947,-6.4756,Europa,túmulo de paso,Megalithomania tours,Túmulo de paso con techo de corredor; la luz del solsticio de invierno ilumina la cámara central.
+Carrowmore,Irlanda,54.2511,-8.5131,Europa,círculo de piedras,Megalithomania tours,Cementerio megalítico con más de 30 círculos de piedras y túmulos; uno de los más grandes de Europa.
+Sacsayhuamán,Perú,-13.5086,-71.9817,Andes,muro poligonal,Megalithomania tours,Murallas de bloques poligonales de andesita encajados sin mortero; técnica inca de ajuste perfecto.
+Ollantaytambo,Perú,-13.2583,-72.2633,Andes,muro poligonal,Megalithomania tours,Complejo inca con terrazas y bloques de granito transportados desde canteras lejanas; muestra ingeniería hidráulica.
+Puma Punku,Bolivia,-16.5617,-68.6799,Andes,plataforma megalítica,Investigación adicional,Plataforma de Tiwanaku de hace 536-600 d.C. con bloques de andesita y arenisca de hasta 131 toneladas; cortes precisos, agujeros en H y grampas de bronce. El mayor bloque mide 7.8 x 5.2 m. Parte del complejo ceremonial junto a Akapana.
+Akapana,Bolivia,-16.5563,-68.6728,Andes,pirámide escalonada,Investigación adicional,Pirámide escalonada de 7 terrazas en Tiwanaku; 257 m de ancho, 197 m de largo y 16.5 m de alto. Montículo artificial de tierra revestido de andesita, con bloques de hasta 65.7 toneladas. Posible templo solar con sistema hidráulico interno.
+Tiwanaku,Bolivia,-16.5547,-68.6733,Andes,centro ceremonial,Megalithomania tours,Centro ceremonial preincaico con monolitos, puerta del Sol y plataforma de Puma Punku. Capital del imperio Tiwanaku, 400-1000 d.C.
+Caral,Perú,-10.8933,-77.5217,Andes,pirámide,Megalithomania tours,Ciudad sagrada de hace 5.000 años con pirámides escalonadas, plazas y anfiteatro; una de las más antiguas de América.
+Chavín de Huántar,Perú,-9.5933,-77.1783,Andes,centro ceremonial,Megalithomania tours,Centro ceremonial con galerías subterráneas, monolito Lanzón y esculturas de felinos y serpientes.
+Teotihuacán,México,19.6925,-98.8439,Mesoamérica,pirámide,Megalithomania tours,Ciudad con pirámides del Sol y de la Luna, Calzada de los Muertos y sistema de drenaje; apogeo hacia 100-550 d.C.
+San Agustín,Colombia,1.8833,-76.2667,Suramérica,estatuas monolíticas,Megalithomania tours,Parque arqueológico con estatuas de piedra de hasta 4 metros; cultura de escultores de 1-900 d.C.
+Easter Island moai,Chile,-27.1127,-109.3497,Pacífico,moai,Megalithomania tours,Estatuas de piedra volcánica de hasta 10 metros; plataformas (ahu) y canteras de Rano Raraku.
